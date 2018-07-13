@@ -1,0 +1,26 @@
+{
+  "name": "turing-webhook",
+  "version": "1.0.0",
+  "description": "Webhook for getting information about TransJakarta routes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "apiai",
+    "webhook"
+  ],
+  "author": "Pratamamia Agung Prihatmaja",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "engines": {
+    "node": "8.1.4"
+  },
+  "bugs": {
+    "url": "https://github.com/supermamon/apiai-nodejs-webhook-sample/issues"
+  },
+  "homepage": "https://github.com/supermamon/apiai-nodejs-webhook-sample#readme",
+  "devDependencies": {}
+}
